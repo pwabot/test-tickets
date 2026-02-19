@@ -1,12 +1,12 @@
 {
   "format_version": 1,
-  "generated_at": "2026-02-18T23:57:00Z",
+  "generated_at": "2026-02-19T00:43:48.003Z",
   "tickets": [
     {
       "id": "01TEST",
       "short_id": "01TEST",
       "title": "Test ticket for webhook verification",
-      "state": "backlog",
+      "state": "ready",
       "priority": "p2",
       "labels": [],
       "path": ".tickets/tickets/01TEST.md"

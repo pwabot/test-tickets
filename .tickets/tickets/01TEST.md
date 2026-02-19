@@ -1,7 +1,7 @@
 ---
 id: 01TEST
 title: Test ticket for webhook verification
-state: backlog
+state: ready
 priority: p2
 labels: []
 ---
